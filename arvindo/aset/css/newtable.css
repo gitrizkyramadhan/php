@@ -1,0 +1,142 @@
+table.tabelajax {
+    width: 100%;
+    /*background-color: #DBE9FF;*/
+    /*background: rgba(77, 144, 254, 0.2);*/
+    background: rgba(63, 81, 181, 0.15);
+    text-align: left;
+    border: 1px solid #168CBE;
+    border-collapse: collapse;
+    color: #474747;
+    direction: ltr;
+    line-height: 16px;
+}
+table.tabelajax tr th {
+    padding: 3px;
+    text-align: left;
+    border-bottom: 1px solid #168CBE;
+    font-weight: normal;
+}
+table.tabelajax tr span.order {
+    cursor: pointer;
+}
+table.tabelajax tr.head {
+    border-bottom: 1px solid #168CBE;
+}
+table.tabelajax tr.head th {
+    font-weight: normal;
+}
+table.tabelajax tr.head .labelload {
+    color: #777;
+    display: none;
+}
+table.tabelajax tr.head span.right {
+    float: right;
+}
+table.tabelajax tbody right{
+    float: right;
+}
+table.tabelajax td {
+    padding: 5px;
+    font-family: Lucida Grande, Verdana, Sans-serif;
+    font-size: 11px;
+    color: #000000;
+    vertical-align: top;
+    background-color: #FFF;
+    border-bottom: 1px solid #168CBE;
+    border-left: 1px solid #168CBE;
+}
+table.tabelajax td div{
+    color: #6D6D6D;
+    font-size: 10.5px;
+}
+table.tabelajax td ol.numbering{
+    list-style-type:decimal;
+    padding-left: 20px;
+    margin: 0;
+}
+
+.pointer {
+    cursor: pointer;
+}
+table.tabelajax tr.hilite td {
+    background-color: #EAFAEA;
+}
+table.tabelajax tr.hilites td {
+    background-color: #EAF3EA;
+}
+table.tabelajax td.odd {
+    background-color: #EAF3EA;
+    padding: 3px;
+    margin: 3px;
+}
+table.tabelajax td.alt {
+    background-color: #FFFFFF;
+    padding: 3px;
+    margin: 3px;
+}
+table.tabelajax table.tabelclrajax td {
+    background-color: transparent;
+    border-color: transparent;
+    padding: 1px;
+    margin: 1px;
+}
+table.tabelajax tr.selected td {
+    background-color: #d9e3ef;
+}
+table.tabelajax input.tb_chk,
+table.tabelajax input.tb_chkall {
+    cursor: pointer;
+}
+table.tabelajax input.tb_chkall {
+    margin-left: 4px
+}
+table.tabelajax input.tb_chk {
+    margin-left: 2px
+}
+table.tabelajax input.tb_text,
+table.tabelajax select {
+    border: 1px solid #a3d48e;
+    padding: 4px;
+}
+table.tabelajax input.tb_text:hover,
+table.tabelajax input.tb_text.mousedown,
+table.tabelajax select:hover,
+table.tabelajax select.mousedown {
+    background-color: #EAFAEA;
+}
+table.tabelajax input:focus,
+table.tabelajax select:focus{
+    border-color:#168CBE;
+}
+
+table.tabelajax input#tb_hal,
+table.tabelajax input#tb_view {
+    width: 40px;
+    text-align: right;
+}
+table.tabelajax input#tb_cari {
+    width: 140px;
+}
+table.tabelajax .paging {
+    font-size: 19px;
+    color: #585858;
+    position: relative;
+}
+table.tabelajax .paging:hover {
+    color: #001D61;
+}
+table.tabelajax .pdisabled {
+    font-size: 19px;
+    color: #ABC3D7;
+    position: relative;
+    top: 2px;
+}
+
+table.tabelajax .title {
+    background: #3F51B5;
+    color: #fff;
+}
+
+td#filltd {
+    padding: 20px;
+}

@@ -1,0 +1,125 @@
+<?php
+if (!defined('BASEPATH')) exit('No direct script access allowed');
+class m_tagihan extends CI_Model {
+    
+    function table(){
+    
+        $table = $this->newtable;
+        $type = 'dataDokumen';
+        $query = "SELECT A.idproduksi, C.produk 'PRODUK', CONCAT(periode, satuan_period) 'PERIODE', C.total_harga 'HARGA PENAWARAN', 
+					   C.date_create 'DATE PENAWARAN', B.date_create 'DATE PO', A.lama_produksi 'LAMA PRODUKSI', A.perkiraan_budget 'BUDGET PERKIRAAN'
+				  FROM t_produksi A
+				  LEFT JOIN t_po B ON B.idpo = A.idpo
+				  LEFT JOIN t_penawaran_hdr C ON C.idpenawaran = B.idpenawaran 
+                  WHERE Date_Realisasi IS NOT NULL
+                  ";
+        
+        #SETTING DETAIL, ORDERBY, SORTBY, TIPE CHECK(radio, checkbox), HIDDEN FIELD, TYPE PROCESS
+        $table->clear();
+        $table->detail(site_url('tagihan/detailProduksi'));
+        $table->detail_tipe('detil_priview_bottom');
+        $table->orderby('idproduksi');
+        $table->sortby('DESC');
+        $table->action(site_url('tagihan/getTables'));
+        $table->tipe_check('radio'); //(radio, checkbox)
+        $table->keys(array('idproduksi'));
+        $table->hiddens(array('idproduksi'));
+        $table->tipe_proses('button');
+        
+        #SEARCHING TABLE
+        $table->search(array(
+            array("produk", "Nama Produk"),
+            array("periode", "Periode"),
+            array("total_harga", "Harga Penawaran"),
+			array("lama_produksi", "Lama Produksi"),
+			array("perkiraan_budget", "Perkiraan Budget"),
+        ));
+        
+        #SETTING URL DAN BANYAK ROW
+        $table->cidb($this->db);
+        $table->ciuri($this->input->post("uri"));
+        
+        #LIST ARRAY PROCESS
+        $process['Process'] = array('GETHASH', 'tagihan/getTablePO', '1', 'f' . $type . '_list');
+        #$process['Preview'] = array('GETHASH', 'realisasi/preview', '1', 'f' . $type . '_list');
+        #$process['Hapus'] = array('GETHASH', 'realisasi/delete', '1', 'f' . $type . '_list');
+        
+        #SETTING PROCESS ID
+        $table->menu($process);
+        $table->set_formid('f' . $type);
+        $table->set_divid('div' . $type);
+        
+        #GENERATE VIEW TABLE
+        $table = $table->generate($query);
+        
+        return $table;
+    }
+    
+	function tablePO($id){
+	   $id = $this->uri->segment(3);
+              	   
+        $table = $this->newtable;
+        $type = 'dataDokumen';
+        $query = "SELECT kdangsuran, DATE_FORMAT(tgl_jatuh_tempo, '%Y-%m-%d') 'JATUH TEMPO', tgl_bayar 'TANGGAL BAYAR', nominal 'NOMINAL' FROM t_angsuran WHERE kdproduksi= '".$id."'";
+
+        #SETTING DETAIL, ORDERBY, SORTBY, TIPE CHECK(radio, checkbox), HIDDEN FIELD, TYPE PROCESS
+        $table->clear();
+        //$table->detail(site_url('po/detailPo'));
+        $table->detail_tipe('detil_priview_bottom');
+        $table->orderby('kdangsuran');
+        $table->sortby('DESC');
+        $table->action(site_url('tagihan/form'));
+        $table->tipe_check('radio'); //(radio, checkbox)
+        $table->keys(array('kdangsuran'));
+        $table->hiddens(array('kdangsuran', 'kdproduksi'));
+        $table->tipe_proses('button');
+
+        #SEARCHING TABLE
+        $table->search(array(
+            array("npwp", "Tipe dokumen"),
+            array("npwp", "Tipe dokumen"),
+            array("npwp", "Tipe dokumen"),
+                //  array("a.DOC_PIC", "Penanggung Jawab"),
+                //array("b.URAIAN", "Status")
+        ));
+
+        #SETTING URL DAN BANYAK ROW
+        $table->cidb($this->db);
+        $table->ciuri($this->input->post("uri"));
+
+        #LIST ARRAY PROCESS
+        $process['Bayar Tagihan'] = array('GETHASH', 'tagihan/form', '1', 'f' . $type . '_list');
+        
+        #SETTING PROCESS ID
+        $table->menu($process);
+        $table->set_formid('f' . $type);
+        $table->set_divid('div' . $type);
+
+        #GENERATE VIEW TABLE
+        $table = $table->generate($query);
+
+        return $table;
+    }
+    
+    
+    function action($listName, $act ,$id = null) {
+        $table = 'm_'.$listName;
+        
+        if($act == 'insert'){
+            $SQL = "INSERT INTO $table VALUES($data)";    
+        }else if($act == 'update'){
+            $SQL = "UPDATE $table SET $data WHERE $id";    
+        }else if($act == 'delete'){
+            $SQL = "DELETE FROM $table WHERE $id";    
+        }
+        
+        $data = $this->db->query($SQL);
+        
+        if($data == true){
+            #BERHASIL
+        }else{
+            #GAGAL
+        }
+            
+    }
+}

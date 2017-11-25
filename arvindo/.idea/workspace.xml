@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed7839fb-9654-44ad-ac63-45776394ed6e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="penawaran.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/controllers/penawaran.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10829">
+              <caret line="637" column="51" lean-forward="false" selection-start-line="637" selection-start-column="51" selection-end-line="637" selection-end-column="51" />
+              <folding>
+                <marker date="1500314879138" expanded="true" signature="901:1023" ph="SELECT idpen... t_penawaran_dtl" />
+                <marker date="1500314879138" expanded="true" signature="1852:1938" ph="SELECT produ... t_penawaran_hdr" />
+                <marker date="1500314879138" expanded="true" signature="2017:2118" ph="SELECT fileu... t_penawaran_file" />
+                <marker date="1500314879138" expanded="true" signature="4262:4606" ph="INSERT INTO t_penawaran_hdr... " />
+                <marker date="1500314879138" expanded="true" signature="4821:5027" ph="INSERT INTO t_penawaran_dtl... " />
+                <marker date="1500314879138" expanded="true" signature="5118:5284" ph="INSERT INTO t_penawaran_file... " />
+                <marker date="1500314879138" expanded="true" signature="5692:5747" ph="DELETE FROM " />
+                <marker date="1500314879138" expanded="true" signature="5807:5865" ph="DELETE FROM " />
+                <marker date="1500314879138" expanded="true" signature="6479:6798" ph="SELECT A.pro... t_penawaran_hdr" />
+                <marker date="1500314879138" expanded="true" signature="6925:7265" ph="SELECT A.kdl... m_lokasi" />
+                <marker date="1500314879138" expanded="true" signature="8904:9006" ph="SELECT keter... t_penawaran_dtl" />
+                <marker date="1500314879138" expanded="true" signature="9141:9381" ph="SELECT A.id,... m_client" />
+                <marker date="1500314879138" expanded="true" signature="9775:10115" ph="SELECT A.kdl... m_lokasi" />
+                <marker date="1500314879138" expanded="true" signature="12003:12428" ph="SELECT A.pro... t_penawaran_hdr" />
+                <marker date="1500314879138" expanded="true" signature="12556:12658" ph="SELECT keter... t_penawaran_dtl" />
+                <marker date="1500314879138" expanded="true" signature="12798:12908" ph="SELECT keter... t_penawaran_file" />
+                <marker date="1500314879138" expanded="true" signature="13257:13562" ph="SELECT A.pro... t_penawaran_hdr" />
+                <marker date="1500314879138" expanded="true" signature="13662:13756" ph="SELECT keter... t_penawaran_dtl" />
+                <marker date="1500314879138" expanded="true" signature="16880:17147" ph="SELECT A.pro... t_penawaran_hdr" />
+                <marker date="1500314879138" expanded="true" signature="17246:17578" ph="SELECT A.kdl... m_lokasi" />
+                <marker date="1500314879138" expanded="true" signature="19273:19375" ph="SELECT keter... t_penawaran_dtl" />
+                <marker date="1500314879138" expanded="true" signature="19494:19706" ph="SELECT A.id,... m_client" />
+                <marker date="1500314879138" expanded="true" signature="19824:19892" ph="SELECT fileu... t_penawaran_file" />
+                <marker date="1500314879138" expanded="true" signature="20595:20960" ph="UPDATE t_pen... " />
+                <marker date="1500314879138" expanded="true" signature="21102:21171" ph="DELETE FROM " />
+                <marker date="1500314879138" expanded="true" signature="21273:21483" ph="INSERT INTO t_penawaran_dtl... " />
+                <marker date="1500314879138" expanded="true" signature="21592:21631" ph="SELECT fileu... t_penawaran_file" />
+                <marker date="1500314879138" expanded="true" signature="21753:21859" ph="UPDATE t_pen... " />
+                <marker date="1500314879138" expanded="true" signature="22321:22661" ph="SELECT A.kdl... m_lokasi" />
+                <marker date="1500314879138" expanded="true" signature="25993:26128" ph="INSERT INTO m_kota... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../x2/exec/function.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/views/penawaran/form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="28" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="395" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="master.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/controllers/master.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10812">
+              <caret line="636" column="13" lean-forward="false" selection-start-line="590" selection-start-column="12" selection-end-line="636" selection-end-column="13" />
+              <folding>
+                <marker date="1500310753013" expanded="true" signature="4027:4075" ph="SELECT kdpro... m_provinsi" />
+                <marker date="1500310753013" expanded="true" signature="4294:4342" ph="SELECT kdpro... m_provinsi" />
+                <marker date="1500310753013" expanded="true" signature="4563:4611" ph="SELECT kdpro... m_provinsi" />
+                <marker date="1500310753013" expanded="true" signature="4832:4880" ph="SELECT kdpro... m_provinsi" />
+                <marker date="1500310753013" expanded="true" signature="5083:5130" ph="SELECT (coun... m_setting" />
+                <marker date="1500310753013" expanded="true" signature="5809:5857" ph="SELECT kdpro... m_provinsi" />
+                <marker date="1500310753013" expanded="true" signature="6076:6124" ph="SELECT kdpro... m_provinsi" />
+                <marker date="1500310753013" expanded="true" signature="6345:6393" ph="SELECT kdpro... m_provinsi" />
+                <marker date="1500310753013" expanded="true" signature="6614:6662" ph="SELECT kdpro... m_provinsi" />
+                <marker date="1500310753013" expanded="true" signature="6865:6912" ph="SELECT (coun... m_setting" />
+                <marker date="1500310753013" expanded="true" signature="7569:7652" ph="INSERT INTO m_provinsi... " />
+                <marker date="1500310753013" expanded="true" signature="8298:8398" ph="INSERT INTO m_kota... " />
+                <marker date="1500310753013" expanded="true" signature="9133:9319" ph="INSERT INTO m_cabang... " />
+                <marker date="1500310753013" expanded="true" signature="10329:10614" ph="INSERT INTO m_lokasi... " />
+                <marker date="1500310753013" expanded="true" signature="10736:10864" ph="INSERT INTO m_lokasi_ijin_file... " />
+                <marker date="1500310753013" expanded="true" signature="11770:11984" ph="INSERT INTO m_client... " />
+                <marker date="1500310753013" expanded="true" signature="13235:13627" ph="INSERT INTO m_karyawan... " />
+                <marker date="1500310753013" expanded="true" signature="14514:14732" ph="INSERT INTO m_barang... " />
+                <marker date="1500310753013" expanded="true" signature="14816:14862" ph="UPDATE m_set... " />
+                <marker date="1500310753013" expanded="true" signature="15791:15958" ph="INSERT INTO t_barang... " />
+                <marker date="1500310753013" expanded="true" signature="16042:16154" ph="UPDATE m_bar... " />
+                <marker date="1500310753013" expanded="true" signature="16664:16715" ph="DELETE FROM " />
+                <marker date="1500310753013" expanded="true" signature="16776:16819" ph="DELETE FROM " />
+                <marker date="1500310753013" expanded="true" signature="16882:16929" ph="DELETE FROM " />
+                <marker date="1500310753013" expanded="true" signature="16992:17039" ph="DELETE FROM " />
+                <marker date="1500310753013" expanded="true" signature="17102:17143" ph="DELETE FROM " />
+                <marker date="1500310753013" expanded="true" signature="17208:17251" ph="DELETE FROM " />
+                <marker date="1500310753013" expanded="true" signature="17314:17359" ph="DELETE FROM " />
+                <marker date="1500310753013" expanded="true" signature="18009:18110" ph="SELECT kd_br... m_barang" />
+                <marker date="1500310753013" expanded="true" signature="18412:18465" ph="SELECT * FRO... m_provinsi" />
+                <marker date="1500310753013" expanded="true" signature="18768:18816" ph="SELECT kdpro... m_provinsi" />
+                <marker date="1500310753013" expanded="true" signature="18956:19001" ph="SELECT * FRO... m_kota" />
+                <marker date="1500310753013" expanded="true" signature="19298:19346" ph="SELECT kdpro... m_provinsi" />
+                <marker date="1500310753013" expanded="true" signature="19486:19648" ph="SELECT A.*, m_cabang" />
+                <marker date="1500310753013" expanded="true" signature="19962:20010" ph="SELECT kdpro... m_provinsi" />
+                <marker date="1500310753013" expanded="true" signature="20150:20310" ph="SELECT A.*, m_lokasi" />
+                <marker date="1500310753013" expanded="true" signature="20481:20546" ph="SELECT fileu... m_lokasi_ijin_file" />
+                <marker date="1500310753013" expanded="true" signature="21019:21097" ph="UPDATE m_pro... " />
+                <marker date="1500310753013" expanded="true" signature="21272:21364" ph="UPDATE m_kot... " />
+                <marker date="1500310753013" expanded="true" signature="21629:21768" ph="UPDATE m_cab... " />
+                <marker date="1500310753013" expanded="true" signature="22144:22382" ph="UPDATE m_lok... " />
+                <marker date="1500310753013" expanded="true" signature="23845:23878" ph="SELECT kdpro... m_provinsi" />
+                <marker date="1500310753013" expanded="true" signature="25415:25437" ph="INSERT INTO m_provinsi... " />
+                <marker date="1500310753013" expanded="true" signature="25415:25472" ph="INSERT INTO m_provinsi... " />
+                <marker date="1500310753013" expanded="true" signature="25415:25473" ph="INSERT INTO m_provinsi... " />
+                <marker date="1500310753013" expanded="true" signature="25415:25500" ph="INSERT INTO m_provinsi... " />
+                <marker date="1500310753013" expanded="true" signature="25415:25502" ph="INSERT INTO m_provinsi... " />
+                <marker date="1500310753013" expanded="true" signature="25415:25503" ph="INSERT INTO m_provinsi... " />
+                <marker date="1500310753013" expanded="true" signature="25415:25530" ph="INSERT INTO m_provinsi... " />
+                <marker date="1500310753013" expanded="true" signature="25415:25531" ph="INSERT INTO m_provinsi... " />
+                <marker date="1500310753013" expanded="true" signature="26063:26084" ph="SELECT kdkot... m_provinsi" />
+                <marker date="1500310753013" expanded="true" signature="26063:26088" ph="SELECT kdkot... m_kota" />
+                <marker date="1500310753013" expanded="true" signature="26063:26089" ph="SELECT kdkot... m_kota" />
+                <marker date="1500310753013" expanded="true" signature="27630:27720" ph="INSERT INTO m_provinsi... " />
+                <marker date="1500310753013" expanded="true" signature="27630:27765" ph="INSERT INTO m_provinsi... " />
+                <marker date="1500310753013" expanded="true" signature="28290:28313" ph="SELECT kdkot... m_kota" />
+                <marker date="1500310753013" expanded="true" signature="28290:28319" ph="SELECT kdcab... m_cabang" />
+                <marker date="1500310753013" expanded="true" signature="29868:30017" ph="INSERT INTO m_cabang... " />
+                <marker date="1500310753013" expanded="true" signature="29868:30064" ph="INSERT INTO m_kota... " />
+                <marker date="1500310753013" expanded="true" signature="30590:30615" ph="SELECT npwp m_client" />
+                <marker date="1500310753013" expanded="true" signature="32160:32348" ph="INSERT INTO m_client... " />
+                <marker date="1500310753013" expanded="true" signature="32874:32897" ph="SELECT kdkot... m_kota" />
+                <marker date="1500310753013" expanded="true" signature="32874:32903" ph="SELECT kdlok... m_lokasi" />
+                <marker date="1500310753013" expanded="true" signature="34447:34596" ph="INSERT INTO m_lokasi... " />
+                <marker date="1500310753013" expanded="true" signature="34447:34636" ph="INSERT INTO m_lokasi... " />
+                <marker date="1500310753013" expanded="true" signature="34447:34737" ph="INSERT INTO m_kota... " />
+                <marker date="1500310753013" expanded="true" signature="35451:35516" ph="SELECT kdkot... m_kota" />
+                <marker date="1500310753013" expanded="true" signature="35814:35879" ph="SELECT kdkot... m_kota" />
+                <marker date="1500310753013" expanded="true" signature="36104:36497" ph="SELECT A.nam... m_client" />
+                <marker date="1500310753013" expanded="true" signature="36574:37301" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="36605:36736" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="36767:36898" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="36929:37100" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="37131:37266" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="37386:37617" ph="SELECT A.id_... t_barang" />
+                <marker date="1500310753013" expanded="true" signature="38588:38654" ph="SELECT fileu... m_lokasi_ijin_file" />
+                <marker date="1500310753013" expanded="true" signature="38734:38915" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="38756:38915" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="38778:38885" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="39274:39362" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="39296:39339" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="39475:39676" ph="SELECT npwp,... m_karyawan" />
+                <marker date="1500310753013" expanded="true" signature="39760:39957" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="39791:39957" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="39822:39866" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="39888:39929" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="39959:39971" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="40052:40092" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="40114:40154" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="40176:40208" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="40275:40754" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="40306:40350" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="40372:40413" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="40435:40493" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="40528:40581" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="40603:40644" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="40666:40722" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="40785:41267" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="40816:40867" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="40889:40930" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="40952:41008" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="41043:41096" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="41118:41159" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="41181:41235" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="41298:41776" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="41329:41384" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="41406:41447" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="41469:41529" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="41564:41609" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="41631:41672" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="41694:41744" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="41807:42279" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="41838:41889" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="41911:41952" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="41974:42030" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="42061:42107" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="42129:42170" ph="..." />
+                <marker date="1500310753013" expanded="true" signature="42192:42243" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/views/penawaran/upload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="44" column="40" lean-forward="false" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>provins</find>
+      <find>order by</find>
+      <find>btn-navy</find>
+      <find>function table_pro</find>
+      <find>function table_bara</find>
+      <find>dialo</find>
+      <find>Dialog(site_url + '/search/getsearch/' + dataAjax, 'Dialog-dokSRC', title, width, height);D</find>
+      <find>alert</find>
+      <find>bootstra</find>
+      <find>dialog</find>
+      <find>function uplo</find>
+      <find>ORDER BY</find>
+      <find>table_kota</find>
+      <find>function up</find>
+      <find>file u</find>
+      <find>function</find>
+      <find>table_can</find>
+      <find>function upload</find>
+      <find>function uploadFile</find>
+      <find>function upl</find>
+      <find>nama ca</find>
+      <find>function</find>
+      <find>table_lok</find>
+      <find>uploadF</find>
+      <find>kode</find>
+      <find>btn-</find>
+      <find>upload</find>
+      <find>det</find>
+      <find>function uploadFil</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/views/home.php" />
+        <option value="$PROJECT_DIR$/aset/js/newtable.js" />
+        <option value="$PROJECT_DIR$/www/libraries/Newtable.php" />
+        <option value="$PROJECT_DIR$/www/views/master/upload_provinsi.php" />
+        <option value="$PROJECT_DIR$/www/views/master/upload_kota.php" />
+        <option value="$PROJECT_DIR$/www/views/master/upload_client.php" />
+        <option value="$PROJECT_DIR$/www/views/master/upload_cabang.php" />
+        <option value="$PROJECT_DIR$/www/models/m_master.php" />
+        <option value="$PROJECT_DIR$/www/views/master/upload_lokasi.php" />
+        <option value="$PROJECT_DIR$/www/controllers/master.php" />
+        <option value="$PROJECT_DIR$/www/models/m_penawaran.php" />
+        <option value="$PROJECT_DIR$/www/views/penawaran/upload.php" />
+        <option value="$PROJECT_DIR$/www/controllers/penawaran.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="penawaran" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meta" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aset" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aset" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aset" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\opel\template\upload" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed7839fb-9654-44ad-ac63-45776394ed6e" name="Default" comment="" />
+      <created>1500273542831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500273542831</updated>
+      <workItem from="1500273545682" duration="22000" />
+      <workItem from="1500273873933" duration="21694000" />
+      <workItem from="1500621909295" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21731000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/controllers/penawaran.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10829">
+          <caret line="637" column="51" lean-forward="false" selection-start-line="637" selection-start-column="51" selection-end-line="637" selection-end-column="51" />
+          <folding>
+            <marker date="1500314879138" expanded="true" signature="901:1023" ph="SELECT idpen... t_penawaran_dtl" />
+            <marker date="1500314879138" expanded="true" signature="1852:1938" ph="SELECT produ... t_penawaran_hdr" />
+            <marker date="1500314879138" expanded="true" signature="2017:2118" ph="SELECT fileu... t_penawaran_file" />
+            <marker date="1500314879138" expanded="true" signature="4262:4606" ph="INSERT INTO t_penawaran_hdr... " />
+            <marker date="1500314879138" expanded="true" signature="4821:5027" ph="INSERT INTO t_penawaran_dtl... " />
+            <marker date="1500314879138" expanded="true" signature="5118:5284" ph="INSERT INTO t_penawaran_file... " />
+            <marker date="1500314879138" expanded="true" signature="5692:5747" ph="DELETE FROM " />
+            <marker date="1500314879138" expanded="true" signature="5807:5865" ph="DELETE FROM " />
+            <marker date="1500314879138" expanded="true" signature="6479:6798" ph="SELECT A.pro... t_penawaran_hdr" />
+            <marker date="1500314879138" expanded="true" signature="6925:7265" ph="SELECT A.kdl... m_lokasi" />
+            <marker date="1500314879138" expanded="true" signature="8904:9006" ph="SELECT keter... t_penawaran_dtl" />
+            <marker date="1500314879138" expanded="true" signature="9141:9381" ph="SELECT A.id,... m_client" />
+            <marker date="1500314879138" expanded="true" signature="9775:10115" ph="SELECT A.kdl... m_lokasi" />
+            <marker date="1500314879138" expanded="true" signature="12003:12428" ph="SELECT A.pro... t_penawaran_hdr" />
+            <marker date="1500314879138" expanded="true" signature="12556:12658" ph="SELECT keter... t_penawaran_dtl" />
+            <marker date="1500314879138" expanded="true" signature="12798:12908" ph="SELECT keter... t_penawaran_file" />
+            <marker date="1500314879138" expanded="true" signature="13257:13562" ph="SELECT A.pro... t_penawaran_hdr" />
+            <marker date="1500314879138" expanded="true" signature="13662:13756" ph="SELECT keter... t_penawaran_dtl" />
+            <marker date="1500314879138" expanded="true" signature="16880:17147" ph="SELECT A.pro... t_penawaran_hdr" />
+            <marker date="1500314879138" expanded="true" signature="17246:17578" ph="SELECT A.kdl... m_lokasi" />
+            <marker date="1500314879138" expanded="true" signature="19273:19375" ph="SELECT keter... t_penawaran_dtl" />
+            <marker date="1500314879138" expanded="true" signature="19494:19706" ph="SELECT A.id,... m_client" />
+            <marker date="1500314879138" expanded="true" signature="19824:19892" ph="SELECT fileu... t_penawaran_file" />
+            <marker date="1500314879138" expanded="true" signature="20595:20960" ph="UPDATE t_pen... " />
+            <marker date="1500314879138" expanded="true" signature="21102:21171" ph="DELETE FROM " />
+            <marker date="1500314879138" expanded="true" signature="21273:21483" ph="INSERT INTO t_penawaran_dtl... " />
+            <marker date="1500314879138" expanded="true" signature="21592:21631" ph="SELECT fileu... t_penawaran_file" />
+            <marker date="1500314879138" expanded="true" signature="21753:21859" ph="UPDATE t_pen... " />
+            <marker date="1500314879138" expanded="true" signature="22321:22661" ph="SELECT A.kdl... m_lokasi" />
+            <marker date="1500314879138" expanded="true" signature="25993:26128" ph="INSERT INTO m_kota... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/controllers/master.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10812">
+          <caret line="636" column="13" lean-forward="false" selection-start-line="590" selection-start-column="12" selection-end-line="636" selection-end-column="13" />
+          <folding>
+            <marker date="1500310753013" expanded="true" signature="4027:4075" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="4294:4342" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="4563:4611" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="4832:4880" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="5083:5130" ph="SELECT (coun... m_setting" />
+            <marker date="1500310753013" expanded="true" signature="5809:5857" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="6076:6124" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="6345:6393" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="6614:6662" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="6865:6912" ph="SELECT (coun... m_setting" />
+            <marker date="1500310753013" expanded="true" signature="7569:7652" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="8298:8398" ph="INSERT INTO m_kota... " />
+            <marker date="1500310753013" expanded="true" signature="9133:9319" ph="INSERT INTO m_cabang... " />
+            <marker date="1500310753013" expanded="true" signature="10329:10614" ph="INSERT INTO m_lokasi... " />
+            <marker date="1500310753013" expanded="true" signature="10736:10864" ph="INSERT INTO m_lokasi_ijin_file... " />
+            <marker date="1500310753013" expanded="true" signature="11770:11984" ph="INSERT INTO m_client... " />
+            <marker date="1500310753013" expanded="true" signature="13235:13627" ph="INSERT INTO m_karyawan... " />
+            <marker date="1500310753013" expanded="true" signature="14514:14732" ph="INSERT INTO m_barang... " />
+            <marker date="1500310753013" expanded="true" signature="14816:14862" ph="UPDATE m_set... " />
+            <marker date="1500310753013" expanded="true" signature="15791:15958" ph="INSERT INTO t_barang... " />
+            <marker date="1500310753013" expanded="true" signature="16042:16154" ph="UPDATE m_bar... " />
+            <marker date="1500310753013" expanded="true" signature="16664:16715" ph="DELETE FROM " />
+            <marker date="1500310753013" expanded="true" signature="16776:16819" ph="DELETE FROM " />
+            <marker date="1500310753013" expanded="true" signature="16882:16929" ph="DELETE FROM " />
+            <marker date="1500310753013" expanded="true" signature="16992:17039" ph="DELETE FROM " />
+            <marker date="1500310753013" expanded="true" signature="17102:17143" ph="DELETE FROM " />
+            <marker date="1500310753013" expanded="true" signature="17208:17251" ph="DELETE FROM " />
+            <marker date="1500310753013" expanded="true" signature="17314:17359" ph="DELETE FROM " />
+            <marker date="1500310753013" expanded="true" signature="18009:18110" ph="SELECT kd_br... m_barang" />
+            <marker date="1500310753013" expanded="true" signature="18412:18465" ph="SELECT * FRO... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="18768:18816" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="18956:19001" ph="SELECT * FRO... m_kota" />
+            <marker date="1500310753013" expanded="true" signature="19298:19346" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="19486:19648" ph="SELECT A.*, m_cabang" />
+            <marker date="1500310753013" expanded="true" signature="19962:20010" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="20150:20310" ph="SELECT A.*, m_lokasi" />
+            <marker date="1500310753013" expanded="true" signature="20481:20546" ph="SELECT fileu... m_lokasi_ijin_file" />
+            <marker date="1500310753013" expanded="true" signature="21019:21097" ph="UPDATE m_pro... " />
+            <marker date="1500310753013" expanded="true" signature="21272:21364" ph="UPDATE m_kot... " />
+            <marker date="1500310753013" expanded="true" signature="21629:21768" ph="UPDATE m_cab... " />
+            <marker date="1500310753013" expanded="true" signature="22144:22382" ph="UPDATE m_lok... " />
+            <marker date="1500310753013" expanded="true" signature="23845:23878" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="25415:25437" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="25415:25472" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="25415:25473" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="25415:25500" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="25415:25502" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="25415:25503" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="25415:25530" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="25415:25531" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="26063:26084" ph="SELECT kdkot... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="26063:26088" ph="SELECT kdkot... m_kota" />
+            <marker date="1500310753013" expanded="true" signature="26063:26089" ph="SELECT kdkot... m_kota" />
+            <marker date="1500310753013" expanded="true" signature="27630:27720" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="27630:27765" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="28290:28313" ph="SELECT kdkot... m_kota" />
+            <marker date="1500310753013" expanded="true" signature="28290:28319" ph="SELECT kdcab... m_cabang" />
+            <marker date="1500310753013" expanded="true" signature="29868:30017" ph="INSERT INTO m_cabang... " />
+            <marker date="1500310753013" expanded="true" signature="29868:30064" ph="INSERT INTO m_kota... " />
+            <marker date="1500310753013" expanded="true" signature="30590:30615" ph="SELECT npwp m_client" />
+            <marker date="1500310753013" expanded="true" signature="32160:32348" ph="INSERT INTO m_client... " />
+            <marker date="1500310753013" expanded="true" signature="32874:32897" ph="SELECT kdkot... m_kota" />
+            <marker date="1500310753013" expanded="true" signature="32874:32903" ph="SELECT kdlok... m_lokasi" />
+            <marker date="1500310753013" expanded="true" signature="34447:34596" ph="INSERT INTO m_lokasi... " />
+            <marker date="1500310753013" expanded="true" signature="34447:34636" ph="INSERT INTO m_lokasi... " />
+            <marker date="1500310753013" expanded="true" signature="34447:34737" ph="INSERT INTO m_kota... " />
+            <marker date="1500310753013" expanded="true" signature="35451:35516" ph="SELECT kdkot... m_kota" />
+            <marker date="1500310753013" expanded="true" signature="35814:35879" ph="SELECT kdkot... m_kota" />
+            <marker date="1500310753013" expanded="true" signature="36104:36497" ph="SELECT A.nam... m_client" />
+            <marker date="1500310753013" expanded="true" signature="36574:37301" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="36605:36736" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="36767:36898" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="36929:37100" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="37131:37266" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="37386:37617" ph="SELECT A.id_... t_barang" />
+            <marker date="1500310753013" expanded="true" signature="38588:38654" ph="SELECT fileu... m_lokasi_ijin_file" />
+            <marker date="1500310753013" expanded="true" signature="38734:38915" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="38756:38915" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="38778:38885" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="39274:39362" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="39296:39339" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="39475:39676" ph="SELECT npwp,... m_karyawan" />
+            <marker date="1500310753013" expanded="true" signature="39760:39957" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="39791:39957" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="39822:39866" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="39888:39929" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="39959:39971" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40052:40092" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40114:40154" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40176:40208" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40275:40754" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40306:40350" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40372:40413" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40435:40493" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40528:40581" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40603:40644" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40666:40722" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40785:41267" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40816:40867" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40889:40930" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40952:41008" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41043:41096" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41118:41159" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41181:41235" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41298:41776" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41329:41384" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41406:41447" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41469:41529" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41564:41609" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41631:41672" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41694:41744" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41807:42279" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41838:41889" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41911:41952" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41974:42030" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="42061:42107" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="42129:42170" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="42192:42243" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/penawaran/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="40" lean-forward="false" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../x2/exec/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/controllers/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/controllers/absensi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3264">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aset/css/newtable_.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aset/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2380">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aset/js/newtable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="325" column="75" lean-forward="false" selection-start-line="325" selection-start-column="75" selection-end-line="325" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="20" column="63" lean-forward="false" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aset/js/myscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="126" column="15" lean-forward="true" selection-start-line="122" selection-start-column="11" selection-end-line="126" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/libraries/Newtable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="865">
+          <caret line="436" column="26" lean-forward="true" selection-start-line="436" selection-start-column="26" selection-end-line="436" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/libraries/Excel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1009">
+          <caret line="109" column="36" lean-forward="true" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/models/m_dash.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/master/form_kota.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="28" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/master/upload_provinsi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/master/form_cabang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="130" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/master/upload_kota.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="25" column="159" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/master/form_client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="152" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/master/upload_cabang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="25" column="84" lean-forward="false" selection-start-line="25" selection-start-column="84" selection-end-line="25" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/master/form_lokasi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="218" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aset/css/newtable.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aset/css/newtable-Biru.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/master/upload_lokasi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="74" column="15" lean-forward="false" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/models/m_master.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="148" column="8" lean-forward="false" selection-start-line="148" selection-start-column="8" selection-end-line="148" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/models/m_penawaran.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="40" column="77" lean-forward="false" selection-start-line="40" selection-start-column="77" selection-end-line="40" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/master/upload_client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="60" column="12" lean-forward="false" selection-start-line="60" selection-start-column="12" selection-end-line="66" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/penawaran/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="40" lean-forward="false" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/controllers/master.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10812">
+          <caret line="636" column="13" lean-forward="false" selection-start-line="590" selection-start-column="12" selection-end-line="636" selection-end-column="13" />
+          <folding>
+            <marker date="1500310753013" expanded="true" signature="4027:4075" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="4294:4342" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="4563:4611" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="4832:4880" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="5083:5130" ph="SELECT (coun... m_setting" />
+            <marker date="1500310753013" expanded="true" signature="5809:5857" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="6076:6124" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="6345:6393" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="6614:6662" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="6865:6912" ph="SELECT (coun... m_setting" />
+            <marker date="1500310753013" expanded="true" signature="7569:7652" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="8298:8398" ph="INSERT INTO m_kota... " />
+            <marker date="1500310753013" expanded="true" signature="9133:9319" ph="INSERT INTO m_cabang... " />
+            <marker date="1500310753013" expanded="true" signature="10329:10614" ph="INSERT INTO m_lokasi... " />
+            <marker date="1500310753013" expanded="true" signature="10736:10864" ph="INSERT INTO m_lokasi_ijin_file... " />
+            <marker date="1500310753013" expanded="true" signature="11770:11984" ph="INSERT INTO m_client... " />
+            <marker date="1500310753013" expanded="true" signature="13235:13627" ph="INSERT INTO m_karyawan... " />
+            <marker date="1500310753013" expanded="true" signature="14514:14732" ph="INSERT INTO m_barang... " />
+            <marker date="1500310753013" expanded="true" signature="14816:14862" ph="UPDATE m_set... " />
+            <marker date="1500310753013" expanded="true" signature="15791:15958" ph="INSERT INTO t_barang... " />
+            <marker date="1500310753013" expanded="true" signature="16042:16154" ph="UPDATE m_bar... " />
+            <marker date="1500310753013" expanded="true" signature="16664:16715" ph="DELETE FROM " />
+            <marker date="1500310753013" expanded="true" signature="16776:16819" ph="DELETE FROM " />
+            <marker date="1500310753013" expanded="true" signature="16882:16929" ph="DELETE FROM " />
+            <marker date="1500310753013" expanded="true" signature="16992:17039" ph="DELETE FROM " />
+            <marker date="1500310753013" expanded="true" signature="17102:17143" ph="DELETE FROM " />
+            <marker date="1500310753013" expanded="true" signature="17208:17251" ph="DELETE FROM " />
+            <marker date="1500310753013" expanded="true" signature="17314:17359" ph="DELETE FROM " />
+            <marker date="1500310753013" expanded="true" signature="18009:18110" ph="SELECT kd_br... m_barang" />
+            <marker date="1500310753013" expanded="true" signature="18412:18465" ph="SELECT * FRO... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="18768:18816" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="18956:19001" ph="SELECT * FRO... m_kota" />
+            <marker date="1500310753013" expanded="true" signature="19298:19346" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="19486:19648" ph="SELECT A.*, m_cabang" />
+            <marker date="1500310753013" expanded="true" signature="19962:20010" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="20150:20310" ph="SELECT A.*, m_lokasi" />
+            <marker date="1500310753013" expanded="true" signature="20481:20546" ph="SELECT fileu... m_lokasi_ijin_file" />
+            <marker date="1500310753013" expanded="true" signature="21019:21097" ph="UPDATE m_pro... " />
+            <marker date="1500310753013" expanded="true" signature="21272:21364" ph="UPDATE m_kot... " />
+            <marker date="1500310753013" expanded="true" signature="21629:21768" ph="UPDATE m_cab... " />
+            <marker date="1500310753013" expanded="true" signature="22144:22382" ph="UPDATE m_lok... " />
+            <marker date="1500310753013" expanded="true" signature="23845:23878" ph="SELECT kdpro... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="25415:25437" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="25415:25472" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="25415:25473" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="25415:25500" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="25415:25502" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="25415:25503" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="25415:25530" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="25415:25531" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="26063:26084" ph="SELECT kdkot... m_provinsi" />
+            <marker date="1500310753013" expanded="true" signature="26063:26088" ph="SELECT kdkot... m_kota" />
+            <marker date="1500310753013" expanded="true" signature="26063:26089" ph="SELECT kdkot... m_kota" />
+            <marker date="1500310753013" expanded="true" signature="27630:27720" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="27630:27765" ph="INSERT INTO m_provinsi... " />
+            <marker date="1500310753013" expanded="true" signature="28290:28313" ph="SELECT kdkot... m_kota" />
+            <marker date="1500310753013" expanded="true" signature="28290:28319" ph="SELECT kdcab... m_cabang" />
+            <marker date="1500310753013" expanded="true" signature="29868:30017" ph="INSERT INTO m_cabang... " />
+            <marker date="1500310753013" expanded="true" signature="29868:30064" ph="INSERT INTO m_kota... " />
+            <marker date="1500310753013" expanded="true" signature="30590:30615" ph="SELECT npwp m_client" />
+            <marker date="1500310753013" expanded="true" signature="32160:32348" ph="INSERT INTO m_client... " />
+            <marker date="1500310753013" expanded="true" signature="32874:32897" ph="SELECT kdkot... m_kota" />
+            <marker date="1500310753013" expanded="true" signature="32874:32903" ph="SELECT kdlok... m_lokasi" />
+            <marker date="1500310753013" expanded="true" signature="34447:34596" ph="INSERT INTO m_lokasi... " />
+            <marker date="1500310753013" expanded="true" signature="34447:34636" ph="INSERT INTO m_lokasi... " />
+            <marker date="1500310753013" expanded="true" signature="34447:34737" ph="INSERT INTO m_kota... " />
+            <marker date="1500310753013" expanded="true" signature="35451:35516" ph="SELECT kdkot... m_kota" />
+            <marker date="1500310753013" expanded="true" signature="35814:35879" ph="SELECT kdkot... m_kota" />
+            <marker date="1500310753013" expanded="true" signature="36104:36497" ph="SELECT A.nam... m_client" />
+            <marker date="1500310753013" expanded="true" signature="36574:37301" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="36605:36736" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="36767:36898" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="36929:37100" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="37131:37266" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="37386:37617" ph="SELECT A.id_... t_barang" />
+            <marker date="1500310753013" expanded="true" signature="38588:38654" ph="SELECT fileu... m_lokasi_ijin_file" />
+            <marker date="1500310753013" expanded="true" signature="38734:38915" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="38756:38915" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="38778:38885" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="39274:39362" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="39296:39339" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="39475:39676" ph="SELECT npwp,... m_karyawan" />
+            <marker date="1500310753013" expanded="true" signature="39760:39957" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="39791:39957" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="39822:39866" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="39888:39929" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="39959:39971" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40052:40092" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40114:40154" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40176:40208" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40275:40754" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40306:40350" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40372:40413" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40435:40493" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40528:40581" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40603:40644" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40666:40722" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40785:41267" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40816:40867" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40889:40930" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="40952:41008" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41043:41096" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41118:41159" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41181:41235" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41298:41776" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41329:41384" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41406:41447" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41469:41529" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41564:41609" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41631:41672" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41694:41744" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41807:42279" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41838:41889" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41911:41952" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="41974:42030" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="42061:42107" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="42129:42170" ph="..." />
+            <marker date="1500310753013" expanded="true" signature="42192:42243" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/controllers/penawaran.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10829">
+          <caret line="637" column="51" lean-forward="false" selection-start-line="637" selection-start-column="51" selection-end-line="637" selection-end-column="51" />
+          <folding>
+            <marker date="1500314879138" expanded="true" signature="901:1023" ph="SELECT idpen... t_penawaran_dtl" />
+            <marker date="1500314879138" expanded="true" signature="1852:1938" ph="SELECT produ... t_penawaran_hdr" />
+            <marker date="1500314879138" expanded="true" signature="2017:2118" ph="SELECT fileu... t_penawaran_file" />
+            <marker date="1500314879138" expanded="true" signature="4262:4606" ph="INSERT INTO t_penawaran_hdr... " />
+            <marker date="1500314879138" expanded="true" signature="4821:5027" ph="INSERT INTO t_penawaran_dtl... " />
+            <marker date="1500314879138" expanded="true" signature="5118:5284" ph="INSERT INTO t_penawaran_file... " />
+            <marker date="1500314879138" expanded="true" signature="5692:5747" ph="DELETE FROM " />
+            <marker date="1500314879138" expanded="true" signature="5807:5865" ph="DELETE FROM " />
+            <marker date="1500314879138" expanded="true" signature="6479:6798" ph="SELECT A.pro... t_penawaran_hdr" />
+            <marker date="1500314879138" expanded="true" signature="6925:7265" ph="SELECT A.kdl... m_lokasi" />
+            <marker date="1500314879138" expanded="true" signature="8904:9006" ph="SELECT keter... t_penawaran_dtl" />
+            <marker date="1500314879138" expanded="true" signature="9141:9381" ph="SELECT A.id,... m_client" />
+            <marker date="1500314879138" expanded="true" signature="9775:10115" ph="SELECT A.kdl... m_lokasi" />
+            <marker date="1500314879138" expanded="true" signature="12003:12428" ph="SELECT A.pro... t_penawaran_hdr" />
+            <marker date="1500314879138" expanded="true" signature="12556:12658" ph="SELECT keter... t_penawaran_dtl" />
+            <marker date="1500314879138" expanded="true" signature="12798:12908" ph="SELECT keter... t_penawaran_file" />
+            <marker date="1500314879138" expanded="true" signature="13257:13562" ph="SELECT A.pro... t_penawaran_hdr" />
+            <marker date="1500314879138" expanded="true" signature="13662:13756" ph="SELECT keter... t_penawaran_dtl" />
+            <marker date="1500314879138" expanded="true" signature="16880:17147" ph="SELECT A.pro... t_penawaran_hdr" />
+            <marker date="1500314879138" expanded="true" signature="17246:17578" ph="SELECT A.kdl... m_lokasi" />
+            <marker date="1500314879138" expanded="true" signature="19273:19375" ph="SELECT keter... t_penawaran_dtl" />
+            <marker date="1500314879138" expanded="true" signature="19494:19706" ph="SELECT A.id,... m_client" />
+            <marker date="1500314879138" expanded="true" signature="19824:19892" ph="SELECT fileu... t_penawaran_file" />
+            <marker date="1500314879138" expanded="true" signature="20595:20960" ph="UPDATE t_pen... " />
+            <marker date="1500314879138" expanded="true" signature="21102:21171" ph="DELETE FROM " />
+            <marker date="1500314879138" expanded="true" signature="21273:21483" ph="INSERT INTO t_penawaran_dtl... " />
+            <marker date="1500314879138" expanded="true" signature="21592:21631" ph="SELECT fileu... t_penawaran_file" />
+            <marker date="1500314879138" expanded="true" signature="21753:21859" ph="UPDATE t_pen... " />
+            <marker date="1500314879138" expanded="true" signature="22321:22661" ph="SELECT A.kdl... m_lokasi" />
+            <marker date="1500314879138" expanded="true" signature="25993:26128" ph="INSERT INTO m_kota... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../x2/exec/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/penawaran/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="395" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
